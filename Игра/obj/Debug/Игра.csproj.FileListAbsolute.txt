@@ -1,0 +1,9 @@
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\bin\Debug\Игра.exe.config
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.csprojResolveAssemblyReference.cache
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.Form1.resources
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.Properties.Resources.resources
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.csproj.GenerateResource.Cache
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\bin\Debug\Игра.exe
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\bin\Debug\Игра.pdb
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.exe
+c:\users\mvideo\documents\visual studio 2015\Projects\Игра\Игра\obj\Debug\Игра.pdb
